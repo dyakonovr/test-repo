@@ -1,8 +1,8 @@
 # Тестовое задание для ВКонтакте. Форма бронирования переговорной
 
 * Проект написан на HTML, CSS (с использованием препроцессора SCSS), JavaScript
-* Для стилизации ```<select>``` использована библиотека [ItcCustomSelect](https://github.com/itchief/ui-components/tree/master/custom-select){:target="_blank"}, [ссылка на статью](https://itchief.ru/javascript/custom-select){:target="_blank"}
-* Для выбора даты и времени использована библиотека [Picker.js](https://github.com/fengyuanchen/pickerjs#methods){:target="_blank"}
+* Для стилизации ```<select>``` использована библиотека <a href="https://github.com/itchief/ui-components/tree/master/custom-select" target="_blank">ItcCustomSelect</a>, <a href="https://itchief.ru/javascript/custom-select" target="_blank">ссылка на статью</a>
+* Для выбора даты и времени использована библиотека <a href="https://github.com/fengyuanchen/pickerjs" target="_blank">Picker.js</a>
 
 ## Структура папок и файлов
 
